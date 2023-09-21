@@ -47,5 +47,26 @@ Had got no business to be there
       After the day was done —  
 "It's very rude of him," she said,  
       "To come and spoil the fun."  
-## Last Verse
+      
+## Last Verse 
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+In numbers' silent dance, we find the truth,  
+Statistics weave a tapestry of proof.  
+They tell the stories hidden in the data's stream,  
+A symphony of facts in every gleam.  
+  
+Mean, median, and mode, they stand as guides,  
+Through scatterplots and curves, where insight hides.  
+Standard deviation measures the spread,  
+In this world of figures, where knowledge is spread.  
+  
+Regression lines reveal the trends we seek,  
+In equations, answers whisper, never meek.  
+With p-values and tests, we strive to see,  
+If patterns found are just by random decree.  
+  
+So let us not forget, in this mathematical quest,  
+Statistics wield the power to impress.  
+In numbers, we discover a world so vast,  
+A glimpse into reality, from first to last.  
